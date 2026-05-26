@@ -32,15 +32,6 @@ Here is the tech stack I work with daily, heavily focusing on backend developmen
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/theteleporter9">
-    <img src="https://github-readme-stats.vercel.app/api?username=theteleporter9&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
-
----
-
 ### 📖 My Journey & Interests
 <details>
   <summary>Click to expand and learn more about me!</summary>
