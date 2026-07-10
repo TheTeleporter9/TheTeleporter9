@@ -8,17 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Student%2C%20Robotics%20Enthusiast%2C%20and%20Backend%20Developer;Trying%20not%20to%20make%20the%20Italian%20jealous%20with%20my%20spaghetti%20code!" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 I'm a student, coding Hobbyist, and robotics enthusiast based in South Africa. I'm passionate about backend systems, systems programming, and competitive robotics. I am constantly building, learning, and exploring new ways to connect code with real-world applications.
 
-🔭 &nbsp;I'm currently working on **Obsidian, a custom programming language in rust!**  
-🌱 &nbsp;I'm currently learning **Rust, and Springboot**  
-👯 &nbsp;I'm looking to collaborate on **Anything, that seems interesting**  
-🤔 &nbsp;I'm looking for help with **Any of my projects!**  
-💬 &nbsp;Ask me about **Java, First Tech Challenge, Minecraft Plugins**  
-😄 &nbsp;Pronouns: **he/sir**  
-⚡ &nbsp;Fun fact: **I like to compose**
+- &nbsp;I'm currently working on **Obsidian, a custom programming language in rust!**  
+- &nbsp;I'm currently learning **Rust, and Springboot**  
+- &nbsp;I'm looking to collaborate on **Anything, that seems interesting**  
+- &nbsp;I'm looking for help with **Any of my projects!**  
+- &nbsp;Ask me about **Java, First Tech Challenge, Minecraft Plugins**  
+- &nbsp;Pronouns: **he/sir**
+- &nbsp;Fun fact: **I like to compose**
 
 ### 🛠️ Tech Stack
 
